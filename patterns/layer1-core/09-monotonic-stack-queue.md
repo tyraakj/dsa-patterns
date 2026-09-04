@@ -1,6 +1,6 @@
 # Pattern 09: Monotonic Stack / Queue
 
-> **Tier**: 1 (Core Foundation)  
+> **Layer**: 1 (Core Foundation)  
 > **Original Curriculum**: [Automedon/ultimate-leetcode-patterns](https://github.com/Automedon/ultimate-leetcode-patterns)  
 > **Key Problems**: [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/), [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/), [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/), [Online Stock Span](https://leetcode.com/problems/online-stock-span/)
 

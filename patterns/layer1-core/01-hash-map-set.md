@@ -1,6 +1,6 @@
 # Pattern 01: Hash Map / Hash Set
 
-> **Tier**: 1 (Core Foundation)  
+> **Layer**: 1 (Core Foundation)  
 > **Original Curriculum**: [Automedon/ultimate-leetcode-patterns](https://github.com/Automedon/ultimate-leetcode-patterns)  
 > **Key Problems**: [Two Sum](https://leetcode.com/problems/two-sum/), [Group Anagrams](https://leetcode.com/problems/group-anagrams/), [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/), [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 

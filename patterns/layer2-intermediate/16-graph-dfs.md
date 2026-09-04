@@ -1,6 +1,6 @@
 # Pattern 16: Graph DFS
 
-> **Tier**: 2 (Intermediate High-Yield)  
+> **Layer**: 2 (Intermediate High-Yield)  
 > **Original Curriculum**: [Automedon/ultimate-leetcode-patterns](https://github.com/Automedon/ultimate-leetcode-patterns)  
 > **Key Problems**: [Number of Provinces](https://leetcode.com/problems/number-of-provinces/), [Clone Graph](https://leetcode.com/problems/clone-graph/), [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/), [Course Schedule](https://leetcode.com/problems/course-schedule/), [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
 

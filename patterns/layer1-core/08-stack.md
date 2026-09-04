@@ -1,6 +1,6 @@
 # Pattern 08: Stack
 
-> **Tier**: 1 (Core Foundation)  
+> **Layer**: 1 (Core Foundation)  
 > **Original Curriculum**: [Automedon/ultimate-leetcode-patterns](https://github.com/Automedon/ultimate-leetcode-patterns)  
 > **Key Problems**: [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/), [Min Stack](https://leetcode.com/problems/min-stack/), [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/), [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 

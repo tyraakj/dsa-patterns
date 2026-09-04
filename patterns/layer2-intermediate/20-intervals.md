@@ -1,6 +1,6 @@
 # Pattern 20: Intervals (Merge / Insert / Overlap)
 
-> **Tier**: 2 (Intermediate High-Yield)  
+> **Layer**: 2 (Intermediate High-Yield)  
 > **Original Curriculum**: [Automedon/ultimate-leetcode-patterns](https://github.com/Automedon/ultimate-leetcode-patterns)  
 > **Key Problems**: [Merge Intervals](https://leetcode.com/problems/merge-intervals/), [Insert Interval](https://leetcode.com/problems/insert-interval/), [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/), [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
 

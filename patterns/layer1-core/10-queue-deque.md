@@ -1,6 +1,6 @@
 # Pattern 10: Queue / Deque
 
-> **Tier**: 1 (Core Foundation)  
+> **Layer**: 1 (Core Foundation)  
 > **Original Curriculum**: [Automedon/ultimate-leetcode-patterns](https://github.com/Automedon/ultimate-leetcode-patterns)  
 > **Key Problems**: [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/), [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/), [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/), [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
 

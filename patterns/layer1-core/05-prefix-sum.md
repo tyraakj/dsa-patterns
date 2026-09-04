@@ -1,6 +1,6 @@
 # Pattern 05: Prefix Sum
 
-> **Tier**: 1 (Core Foundation)  
+> **Layer**: 1 (Core Foundation)  
 > **Original Curriculum**: [Automedon/ultimate-leetcode-patterns](https://github.com/Automedon/ultimate-leetcode-patterns)  
 > **Key Problems**: [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/), [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/), [Contiguous Array](https://leetcode.com/problems/contiguous-array/), [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/), [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)
 

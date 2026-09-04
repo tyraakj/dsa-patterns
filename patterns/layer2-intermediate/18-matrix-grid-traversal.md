@@ -1,6 +1,6 @@
 # Pattern 18: Matrix / Grid Traversal
 
-> **Tier**: 2 (Intermediate High-Yield)  
+> **Layer**: 2 (Intermediate High-Yield)  
 > **Original Curriculum**: [Automedon/ultimate-leetcode-patterns](https://github.com/Automedon/ultimate-leetcode-patterns)  
 > **Key Problems**: [Number of Islands](https://leetcode.com/problems/number-of-islands/), [Max Area of Island](https://leetcode.com/problems/max-area-of-island/), [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/), [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 

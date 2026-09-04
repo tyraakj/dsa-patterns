@@ -1,6 +1,6 @@
 # Pattern 06: String Manipulation & Parsing
 
-> **Tier**: 1 (Core Foundation)  
+> **Layer**: 1 (Core Foundation)  
 > **Original Curriculum**: [Automedon/ultimate-leetcode-patterns](https://github.com/Automedon/ultimate-leetcode-patterns)  
 > **Key Problems**: [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/), [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/), [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/), [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 

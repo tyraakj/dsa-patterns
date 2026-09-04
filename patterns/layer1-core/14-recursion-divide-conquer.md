@@ -1,6 +1,6 @@
 # Pattern 14: Recursion / Divide and Conquer
 
-> **Tier**: 1 (Core Foundation)  
+> **Layer**: 1 (Core Foundation)  
 > **Original Curriculum**: [Automedon/ultimate-leetcode-patterns](https://github.com/Automedon/ultimate-leetcode-patterns)  
 > **Key Problems**: [Pow(x, n)](https://leetcode.com/problems/powx-n/), [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/), [Sort List](https://leetcode.com/problems/sort-list/), [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 

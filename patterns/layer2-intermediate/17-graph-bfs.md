@@ -1,6 +1,6 @@
 # Pattern 17: Graph BFS
 
-> **Tier**: 2 (Intermediate High-Yield)  
+> **Layer**: 2 (Intermediate High-Yield)  
 > **Original Curriculum**: [Automedon/ultimate-leetcode-patterns](https://github.com/Automedon/ultimate-leetcode-patterns)  
 > **Key Problems**: [Word Ladder](https://leetcode.com/problems/word-ladder/), [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/), [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/), [Open the Lock](https://leetcode.com/problems/open-the-lock/)
 

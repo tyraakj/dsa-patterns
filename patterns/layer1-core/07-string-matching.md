@@ -1,6 +1,6 @@
 # Pattern 07: String Matching
 
-> **Tier**: 1 (Core Foundation)  
+> **Layer**: 1 (Core Foundation)  
 > **Original Curriculum**: [Automedon/ultimate-leetcode-patterns](https://github.com/Automedon/ultimate-leetcode-patterns)  
 > **Key Problems**: [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/), [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/), [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)
 

@@ -1,6 +1,6 @@
 # Pattern 15: Backtracking / Subsets / Combinations / Permutations
 
-> **Tier**: 1 (Core Foundation)  
+> **Layer**: 1 (Core Foundation)  
 > **Original Curriculum**: [Automedon/ultimate-leetcode-patterns](https://github.com/Automedon/ultimate-leetcode-patterns)  
 > **Key Problems**: [Subsets](https://leetcode.com/problems/subsets/), [Subsets II](https://leetcode.com/problems/subsets-ii/), [Permutations](https://leetcode.com/problems/permutations/), [Combination Sum](https://leetcode.com/problems/combination-sum/), [Word Search](https://leetcode.com/problems/word-search/), [N-Queens](https://leetcode.com/problems/n-queens/)
 

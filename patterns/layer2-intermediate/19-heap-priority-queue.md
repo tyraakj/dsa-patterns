@@ -1,6 +1,6 @@
 # Pattern 19: Heap / Priority Queue
 
-> **Tier**: 2 (Intermediate High-Yield)  
+> **Layer**: 2 (Intermediate High-Yield)  
 > **Original Curriculum**: [Automedon/ultimate-leetcode-patterns](https://github.com/Automedon/ultimate-leetcode-patterns)  
 > **Key Problems**: [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/), [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/), [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/), [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
