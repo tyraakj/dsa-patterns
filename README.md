@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 Master Triage: Problem Keyword Cheat Sheet
+## Master Triage: Problem Keyword Cheat Sheet
 
 When solving problems under time pressure in technical interviews, match problem signals and keywords to the optimal pattern:
 
@@ -47,9 +47,9 @@ When solving problems under time pressure in technical interviews, match problem
 
 ---
 
-## 📚 Complete Curriculum Index (41 Patterns)
+## Complete Curriculum Index (41 Patterns)
 
-### 🥇 Layer 1: Core Foundation (Patterns 01–15)
+### Layer 1: Core Foundation (Patterns 01–15)
 *Mastery here unlocks ~80% of standard software engineering interview loops.*
 
 | # | Pattern Name | Focus Areas & Concepts | Guide Link |
@@ -72,7 +72,7 @@ When solving problems under time pressure in technical interviews, match problem
 
 ---
 
-### 🥈 Layer 2: Intermediate High-Yield (Patterns 16–30)
+### Layer 2: Intermediate High-Yield (Patterns 16–30)
 *Advanced graphs, 2D dynamic programming, heaps, intervals, and data structure design.*
 
 | # | Pattern Name | Focus Areas & Concepts | Guide Link |
@@ -95,7 +95,7 @@ When solving problems under time pressure in technical interviews, match problem
 
 ---
 
-### 🥉 Layer 3: Advanced & Specialized (Patterns 31–41)
+### Layer 3: Advanced & Specialized (Patterns 31–41)
 *Specialized data structures and competitive algorithmic paradigms.*
 
 | # | Pattern Name | Focus Areas & Concepts | Guide Link |
@@ -114,7 +114,7 @@ When solving problems under time pressure in technical interviews, match problem
 
 ---
 
-## ⚡ 5-Step Interview Execution Protocol
+## 5-Step Interview Execution Protocol
 
 1. **Clarify Inputs & Edge Cases (First 3–5 Minutes)**:
    * Ask about duplicate elements, negative numbers, empty arrays, null pointers, and sortedness.
